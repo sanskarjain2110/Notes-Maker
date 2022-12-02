@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="topic">Topic</string>
+    <string name="content">Content</string>
+    <string name="last_updated">Last updated</string>
+    <string name="add">Add</string>
+    <string name="back_button">back button</string>
+    <string name="title">Topic: </string>
+    <string name="save">Save</string>
+
+</resources>
